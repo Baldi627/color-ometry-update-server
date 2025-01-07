@@ -1,4 +1,5 @@
 {
 	"current_version": "25w02a",
-	"is_snapshot": true
+	"is_snapshot": true,
+	"build_number": 18,
 }
